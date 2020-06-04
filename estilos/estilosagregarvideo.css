@@ -1,0 +1,314 @@
+.group{
+
+position: relative;
+width: 1152px;
+height: 700px;
+
+background: #FFFFFF;
+
+}
+/* Rectangle */
+
+.rectangle{
+position: absolute;
+width: 1152px;
+height: 74px;
+left: 0px;
+top: 0px;
+
+background: #FF5252;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+/* VIDEO TV */
+
+.videotv{
+position: absolute;
+width: 171px;
+height: 39px;
+left: 20px;
+top: 16px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+/* Rectangle 1 */
+
+.rectangle1{
+position: absolute;
+visibility: hidden;
+width: 1152px;
+height: 700px;
+left: 0px;
+top: 0px;
+
+background: rgba(0, 0, 0, 0.29);
+
+}
+/* Modal */
+
+.modal{
+position: absolute;
+width: 625px;
+height: 362px;
+left: 264px;
+top: 159px;
+
+}
+
+/* Rectangle 2 */
+
+
+.rectangle2{
+position: absolute;
+visibility: hidden;
+width: 625px;
+height: 362px;
+left: 264px;
+top: 159px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 12px rgba(141, 141, 141, 0.25);
+}
+
+/* Agrear video */
+
+.agregarvideo{
+position: absolute;
+width: 127px;
+height: 26px;
+left: 280px;
+top: 174px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* x */
+
+.x{
+position: absolute;
+visibility: hidden;
+width: 15px;
+height: 35px;
+left: 862px;
+top: 164px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+}
+
+/* Rectangle 3 */
+
+.rectangle3{
+position: absolute;
+width: 287px;
+height: 42px;
+left: 280px;
+top: 241px;
+
+background: #FFFFFF;
+border: 1px solid #00C1AA;
+box-sizing: border-box;
+}
+
+/* Titulo */
+
+.titulo{
+position: absolute;
+width: 36px;
+height: 16px;
+left: 293px;
+top: 254px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #8A8A8A;
+
+}
+
+/* Rectangle 5 */
+
+.rectangle5{
+position: absolute;
+width: 590px;
+height: 137px;
+left: 280px;
+top: 303px;
+
+background: #FFFFFF;
+border: 1px solid #BCBCBC;
+box-sizing: border-box;
+}
+
+/* Descripcion */
+
+.descripcion{
+position: absolute;
+width: 74px;
+height: 16px;
+left: 293px;
+top: 316px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #8A8A8A;
+
+
+}
+/* Rectangle 4 */
+
+.rectangle4{
+position: absolute;
+width: 283px;
+height: 42px;
+left: 587px;
+top: 241px;
+
+background: #FFFFFF;
+border: 1px solid #BCBCBC;
+box-sizing: border-box;
+
+}
+/* url-video */
+
+.urlvideo{
+position: absolute;
+width: 54px;
+height: 16px;
+left: 598px;
+top: 254px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #8A8A8A;
+
+}
+
+/* Line 1 */
+
+.line1{
+position: absolute;
+width: 590px;
+height: 0px;
+left: 280px;
+top: 215px;
+
+border: 1px solid #A0A0A0;
+
+}
+/* Rectangle 6 */
+
+.rectangle6{
+position: absolute;
+width: 121px;
+height: 40px;
+left: 445px;
+top: 466px;
+
+background: #FF5252;
+
+}
+/* Agregar */
+
+.agregar{
+position: absolute;
+width: 50px;
+height: 16px;
+left: 480px;
+top: 478px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+
+/* Rectangle 7 */
+
+.rectangle7{
+position: absolute;
+width: 121px;
+height: 40px;
+left: 586px;
+top: 466px;
+
+background: #C4C4C4;
+}
+
+/* Cancelar */
+
+.cancelar{
+position: absolute;
+width: 55px;
+height: 16px;
+left: 619px;
+top: 478px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+}
+/* Ver mapa */
+
+.vermapa{
+position: absolute;
+width: 69px;
+height: 18px;
+left: 1063px;
+top: 28px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
