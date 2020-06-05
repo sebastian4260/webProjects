@@ -28,6 +28,7 @@ width: 171px;
 height: 39px;
 left: 20px;
 top: 16px;
+text-decoration: none;
 
 font-family: Roboto;
 font-style: normal;
@@ -97,6 +98,27 @@ line-height: 26px;
 
 color: #000000;
 }
+
+.vermapa{
+    position: absolute;
+    width: 69px;
+    height: 18px;
+    left: 550px;
+    top: 0px;
+    text-decoration: none;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 42px;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+
 
 
 /* x */
@@ -294,21 +316,5 @@ color: #000000;
 }
 /* Ver mapa */
 
-.vermapa{
-position: absolute;
-width: 69px;
-height: 18px;
-left: 1063px;
-top: 28px;
 
-font-family: Roboto;
-font-style: normal;
-font-weight: bold;
-font-size: 16px;
-line-height: 18px;
-/* identical to box height, or 112% */
 
-color: #FFFFFF;
-
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
